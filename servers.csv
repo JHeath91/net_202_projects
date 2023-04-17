@@ -1,0 +1,29 @@
+Server,IP Address,Datacenter,Operating System,Linux Flavor,Use
+hcc_east_dc,10.27.100.10,East,Windows Server 2016,None,Domain Controller
+hcc_west_dc,10.54.100.10,West,Windows Server 2016,None,Domain Controller
+hcc_east_dhcp,10.27.100.11,East,Windows Server 2016,None,DHCP Server
+hcc_west_dhcp,10.54.100.11,West,Windows Server 2016,None,DHCP Server
+hcc_east_dns,10.27.100.12,East,Windows Server 2016,None,DNS Server
+hcc_west_dns,10.54.100.12,West,Windows Server 2016,None,DNS Server
+hcc_east_ftp,10.27.120.10,East,Linux,CentOS,FTP Server
+hcc_west_ftp,10.54.120.10,West,Linux,CentOS,FTP Server
+hcc_east_files,10.27.100.13,East,Windows Server 2019,None,File Server
+hcc_west_files,10.54.100.13,West,Windows Server 2019,None,File Server
+hcc_east_tftp,10.27.120.11,East,Linux,Red Hat,TFTP Server
+hcc_west_tftp,10.54.120.12,West,Linux,Red Hat,TFTP Server
+hcc_east_web,10.27.120.12,East,Linux,Ubuntu,Web Server
+hcc_west_web,10.54.120.12,West,Linux,Ubuntu,Web Server
+hcc_east_app001,10.27.100.50,East,Windows Server 2019,None,Application Server
+hcc_east_app002,10.27.100.51,East,Linux,Debian,Application Server
+hcc_east_app003,10.27.100.52,East,Windows Server 2019,None,Application Server
+hcc_east_app004,10.27.100.53,East,Windows Server 2019,None,Application Server
+hcc_east_app005,10.27.100.54,East,Linux,Red Hat,Application Server
+hcc_east_app006,10.27.100.55,East,Windows Server 2019,None,Application Server
+hcc_east_app007,10.27.100.56,East,Windows Server 2019,None,Application Server
+hcc_west_app001,10.54.100.50,West,Windows Server 2019,None,Application Server
+hcc_west_app002,10.54.100.51,West,Linux,Debian,Application Server
+hcc_west_app003,10.54.100.52,West,Windows Server 2019,None,Application Server
+hcc_west_app004,10.54.100.53,West,Windows Server 2019,None,Application Server
+hcc_west_app005,10.54.100.54,West,Linux,Red Hat,Application Server
+hcc_west_app006,10.54.100.55,West,Windows Server 2019,None,Application Server
+hcc_west_app007,10.54.100.56,West,Windows Server 2019,None,Application Server

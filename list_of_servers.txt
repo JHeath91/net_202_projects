@@ -1,0 +1,7 @@
+application01
+ftp01
+vulnscanner01
+ldap01
+dns01
+dns02
+dhcp01
